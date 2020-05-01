@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="title_search">Search</string>
+    <string name="title_share">Share</string>
+    <string name="title_blue">blue</string>
+    <string name="title_Red">Red</string>
+</resources>
